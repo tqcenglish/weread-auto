@@ -9,7 +9,7 @@ def lightScreen():
 #滑动页面
 def autoSwipe():
     d.swipe(1000, 500, 200, 500)
-    time.sleep(10)
+    time.sleep(30)
 
 # 执行5小时
 if __name__ == '__main__':
