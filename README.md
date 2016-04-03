@@ -7,6 +7,18 @@
 
 - [uiautomator](https://github.com/xiaocong/uiautomator)
 
+## 安装
+
+```
+sudo apt-get install python-pip python-dev build-essential
+sudo pip install uiautomator
+```
+
+## 运行
+```
+python android.py
+```
+
 ## 注意
 - 需要 adb 环境，并通过 pip 安装 uiautomator。
 - 手机不能锁屏(需要调节锁屏时间足够长)
