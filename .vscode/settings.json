@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "mktime"
+    ],
+    "python.pythonPath": "/usr/local/miniconda3/envs/autoread/bin/python",
+    "python.formatting.provider": "yapf",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pep8Enabled": true
+}
